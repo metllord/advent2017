@@ -1,0 +1,3 @@
+*.py[oc]
+# Text files are provided as input for the problems
+*.txt
